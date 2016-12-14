@@ -106,6 +106,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="2016-12-14 at 03-09.png" />
+    <Content Include="2016-12-14 at 03-35.png" />
+    <Content Include="2016-12-14 at 04-00.png" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
