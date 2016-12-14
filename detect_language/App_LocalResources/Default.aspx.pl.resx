@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Button1.Text" xml:space="preserve">
-    <value>Enter</value>
+    <value>Wejdź</value>
   </data>
   <data name="Label1.Text" xml:space="preserve">
-    <value>Name:</value>
+    <value>Imię:</value>
   </data>
   <data name="Label2.Text" xml:space="preserve">
-    <value>Test text;</value>
+    <value>Testowy tekst;</value>
   </data>
   <data name="Label3.Text" xml:space="preserve">
-    <value>Test language English</value>
+    <value>Testowy język polski</value>
   </data>
 </root>
