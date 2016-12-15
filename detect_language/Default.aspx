@@ -9,6 +9,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <h1>
+            <asp:Label ID="Label4" runat="server" Text="<%$ Resources:Global, Message %>"></asp:Label>
+        </h1>
       <asp:Label ID="Label1" runat="server" Text="Label" meta:resourceKey="Label1"></asp:Label>
     <br />
     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
