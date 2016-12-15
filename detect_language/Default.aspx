@@ -26,6 +26,13 @@
 
          <asp:Label ID="Label3" runat="server" Text="Label" meta:resourceKey="Label3"></asp:Label>
 
+        <br />
+        <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+            <asp:ListItem></asp:ListItem>
+            <asp:ListItem Value="pl-PL">Polski</asp:ListItem>
+            <asp:ListItem Value="en-US">English</asp:ListItem>
+        </asp:DropDownList>
+
     </div>
     </form>
 </body>
